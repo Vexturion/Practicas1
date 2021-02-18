@@ -25,3 +25,4 @@ hs_err_pid*
 JavaApplication9/nbproject/build-impl.xml
 JavaApplication9/nbproject/genfiles.properties
 JavaApplication9/nbproject/project.properties
+*.properties
